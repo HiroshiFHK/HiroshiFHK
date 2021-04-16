@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hiroshi</h1>
 <h2 align="center">A passionate Cyber Security Entusiast 💻, Developer 📋, Manager 📊, Fighter 👊, Gamer 🎮 and a nice guy :bowtie: (i think) :heart:.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiroshifk&label=Profile%20views&color=0e75b6&style=flat" alt="hiroshifk" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felipe-hiroshi-katsuno-6a1830a7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipe-hiroshi-katsuno-6a1830a7" height="30" width="40" /></a>
