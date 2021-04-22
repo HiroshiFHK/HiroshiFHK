@@ -35,8 +35,8 @@
 
 <h3 align="left">See my work here:</h3>
 <p>
-	<h4 align="left">Portifolio:</h4> <a href="https://github.com/HiroshiFK/portifolio" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height"40"/></a> 
+	<h4 align="left">Portifolio:</h4> <a href="https://github.com/HiroshiFK/portifolio" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height"30"/></a> 
 </p>
 <p>
-	<h4 align="left">Projects:</h4> <a href="https://github.com/HiroshiFK/projects" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height"40"/></a> 
+	<h4 align="left">Projects:</h4> <a href="https://github.com/HiroshiFK/projects" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height"30"/></a> 
 </p>
