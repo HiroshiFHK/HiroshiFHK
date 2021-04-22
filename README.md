@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/felipe-hiroshi-katsuno-6a1830a7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipe-hiroshi-katsuno-6a1830a7" height="30" width="40" /></a>
-<a href="https://fb.com/hiroshifhk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hiroshifhk" height="30" width="40" /></a>
-<a href="https://instagram.com/hiroshi_kats" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hiroshi_kats" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipe-hiroshi-katsuno-6a1830a7" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="felipe-hiroshi-katsuno-6a1830a7" height="30" width="40" /></a>
+<a href="https://fb.com/hiroshifhk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="hiroshifhk" height="30" width="40" /></a>
+<a href="https://instagram.com/hiroshi_kats" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="hiroshi_kats" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,9 +27,16 @@
 	<a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 		<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-	<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+	<a href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
 	<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">See my work here:</h3>
+<p>
+	<h4 align="left">Portifolio:</h2> <a href="https://github.com/HiroshiFK/portifolio" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height"40"/></a> 
+</p>
+<p>
+	<h4 align="left">Projects:</h2> <a href="https://github.com/HiroshiFK/projects" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height"40"/></a> 
+</p>
