@@ -36,12 +36,14 @@
 <h3 align="left">See my work here:</h3>
 <h4 align="left">Portifolio:</h4>
 <p>
-	<a href="https://github.com/HiroshiFK/portifolio" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height"30"/></a>
-	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20e%20CSS/Desafios%20Digital%20innovation%20One/Recriando%20a%20p%C3%A1gina%20inicial%20do%20Instagram" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/115879459-100b0b00-a420-11eb-92a7-9e37a6d8ca2b.jpg" alt="instagramCopy" width="160" height="80"/></a>
-	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20e%20CSS/Desafios%20Digital%20innovation%20One/Recriando%20a%20interface%20do%20Netflix" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/115881384-100c0a80-a422-11eb-8573-caaae50b3962.jpg" alt="netflixCopy" width="160" height="80"/></a>
-	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20de%20mem%C3%B3ria%20estilo%20Genius" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/115877378-c02b4480-a41d-11eb-8e64-ec9a34f246b5.jpg" alt="geniusGame" width="160" height="80"/></a>
-	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20de%20Naves" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/115877898-52cbe380-a41e-11eb-8fb8-3b7412dc44a6.jpg" alt="aircraftGame"
+	<a href="https://github.com/HiroshiFK/portifolio" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="40" height"30"/></a>
+	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20e%20CSS/Desafios%20Digital%20innovation%20One/Recriando%20a%20p%C3%A1gina%20inicial%20do%20Instagram" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/115879459-100b0b00-a420-11eb-92a7-9e37a6d8ca2b.jpg" alt="Instagram Copy" width="160" height="80"/></a>
+	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20e%20CSS/Desafios%20Digital%20innovation%20One/Recriando%20a%20interface%20do%20Netflix" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/115881384-100c0a80-a422-11eb-8573-caaae50b3962.jpg" alt="Netflix Copy" width="160" height="80"/></a>
+	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20de%20mem%C3%B3ria%20estilo%20Genius" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/115877378-c02b4480-a41d-11eb-8e64-ec9a34f246b5.jpg" alt="Genius Game" width="160" height="80"/></a>
+	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20de%20Naves" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/115877898-52cbe380-a41e-11eb-8fb8-3b7412dc44a6.jpg" alt="Aircraft Game"
 width="160" height="80"/></a>
+	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20do%20dinossauro" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/117145110-2488c500-ad89-11eb-8dea-a997f6b37556.jpg" alt="Google Dino Game" width="160" height="80"/></a>
+	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20da%20mem%C3%B3ria" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/117145664-c4465300-ad89-11eb-995d-a6c6bf27193a.jpg" alt="Mário Memory Game" width="160" height="80"/></a>
 </p>
 <h4 align="left">Projects:</h4>
 <p>
