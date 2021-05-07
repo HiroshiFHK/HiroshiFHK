@@ -44,7 +44,7 @@
 width="160" height="80"/></a>
 	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20do%20dinossauro" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/117145110-2488c500-ad89-11eb-8dea-a997f6b37556.jpg" alt="Google Dino Game" width="160" height="80"/></a>
 	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20da%20mem%C3%B3ria" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/117145664-c4465300-ad89-11eb-995d-a6c6bf27193a.jpg" alt="Mário Memory Game" width="160" height="80"/></a>
-	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20da%20velha" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/117442331-00ee8780-af0d-11eb-87c5-2eb2c6b2a0ad.jpg" alt="Jogo da velha" width="160" height"80"/></a>
+	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20da%20velha" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/117442934-c9cca600-af0d-11eb-8c7e-614def58b047.jpg" alt="Jogo da velha" width="70" height"70"/></a>
 </p>
 <h4 align="left">Projects:</h4>
 <p>
