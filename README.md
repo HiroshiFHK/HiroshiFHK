@@ -18,7 +18,7 @@
 	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-	</p>
+</p>
   <p>
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a>
@@ -45,6 +45,7 @@ width="160" height="80"/></a>
 	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20do%20dinossauro" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/117145110-2488c500-ad89-11eb-8dea-a997f6b37556.jpg" alt="Google Dino Game" width="160" height="80"/></a>
 	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20da%20mem%C3%B3ria" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/117145664-c4465300-ad89-11eb-995d-a6c6bf27193a.jpg" alt="Mário Memory Game" width="160" height="80"/></a>
 	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20da%20velha" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/117442934-c9cca600-af0d-11eb-8c7e-614def58b047.jpg" alt="Jogo da velha" width="70" height"70"/></a>
+	<a href="https://github.com/HiroshiFK/portfolio/tree/main/HTML%20e%20CSS/Responsive%20Web%20Design%20Certification" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/117860830-1fcf7f80-b267-11eb-82f4-89bdd5522678.jpg" alt="responsive design certification" width="110" height="110"/> </a>
 </p>
 <h4 align="left">Projects:</h4>
 <p>
