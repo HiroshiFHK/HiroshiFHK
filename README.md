@@ -51,7 +51,7 @@
 </p>
 <h5 align="left">Data Science projects:</h5>
 <p>
-	<a href="https://github.com/HiroshiFK/portfolio/tree/main/Python%20e%20Data%20Science/" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/2318/premium/2318736.png?token=exp=1647101318~hmac=ff9dad419e80fb2e8d2764eab2363094" alt="DIO project">
+	<a href="https://github.com/HiroshiFK/portfolio/tree/main/Python%20e%20Data%20Science/" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/2318/premium/2318736.png?token=exp=1647101318~hmac=ff9dad419e80fb2e8d2764eab2363094" alt="DIO project"> width="100" height="100"/></a>
 </p>
 <h5 align="left">Front-end:</h5>
 <p>
