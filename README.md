@@ -31,11 +31,10 @@
 </p>
 <h3 align="left">Other Languages and Tools:</h3>
 <p align="left">
-	<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+	
 </p>
 <p>
 	<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-	<a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a>
 	<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 	<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 	<a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
@@ -45,7 +44,11 @@
 </p>
 
 <h3 align="left">See my work here:</h3>
-<h4 align="left">Portifolio:</h4>
+<h4 align="left">Full Projects:</h4>
+<p>
+	<a href="https://github.com/HiroshiFK/projects" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height"30"/></a>
+</p>
+<h4 align="left">Full Portifolio:</h4>
 <p>
 	<a href="https://github.com/HiroshiFK/portifolio" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="40" height"30"/></a>
 </p>
@@ -69,8 +72,4 @@ width="160" height="80"/></a>
 <p>
 	<a href="https://github.com/HiroshiFK/portfolio/tree/main/Nodejs/node-form-sql" target="_blank"><img src="https://user-images.githubusercontent.com/75752123/120898353-e2110d00-c600-11eb-8ad2-4f93fc140a63.jpg" alt="node form sql" width="130" height="100"/> </a>
 	<a href="https://github.com/HiroshiFK/portfolio/tree/main/Nodejs/node-store-api" target="_blank"><img src="https://user-images.githubusercontent.com/75752123/119691840-48d44080-be21-11eb-99f7-89837d5bb261.jpg" alt="node store api" width="130" height="100"/> </a>
-</p>
-<h4 align="left">Projects:</h4>
-<p>
-	<a href="https://github.com/HiroshiFK/projects" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height"30"/></a>
 </p>
