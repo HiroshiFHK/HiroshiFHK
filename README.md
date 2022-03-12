@@ -49,6 +49,10 @@
 <p>
 	<a href="https://github.com/HiroshiFK/portifolio" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="40" height"30"/></a>
 </p>
+<h5 align="left">Data Science projects:</h5>
+<p>
+	<a href="https://github.com/HiroshiFK/portfolio/tree/main/Python%20e%20Data%20Science/" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/2318/premium/2318736.png?token=exp=1647101318~hmac=ff9dad419e80fb2e8d2764eab2363094" alt="DIO project">
+</p>
 <h5 align="left">Front-end:</h5>
 <p>
 	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20e%20CSS/Desafios%20Digital%20innovation%20One/Recriando%20a%20p%C3%A1gina%20inicial%20do%20Instagram" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/115879459-100b0b00-a420-11eb-92a7-9e37a6d8ca2b.jpg" alt="Instagram Copy" width="160" height="80"/></a>
