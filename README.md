@@ -51,6 +51,7 @@
 <h5 align="left">Data Science projects:</h5>
 <p>
 	<a href="https://github.com/HiroshiFK/portfolio/tree/main/Python%20e%20Data%20Science/" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/179220535-502906fc-34ce-4b5e-9143-1a03e89ce81f.png" alt="data science projects" width="100" height="100"/></a>
+	<a href="https://github.com/HiroshiFK/portfolio/tree/main/Python%20e%20Data%20Science/Desafios%20Digital%20Innovation%20One" target="_blank">BASIC DATA ANALYSYS</a>
 </p>
 
 <h5 align="left">Back-end:</h5>
