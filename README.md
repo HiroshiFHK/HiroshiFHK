@@ -50,7 +50,7 @@
 </p>
 <h5 align="left">Data Science projects:</h5>
 <p>
-	<a href="https://github.com/HiroshiFK/portfolio/tree/main/Python%20e%20Data%20Science/" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/2318/premium/2318736.png?token=exp=1647101318~hmac=ff9dad419e80fb2e8d2764eab2363094" alt="data science projects" width="100" height="100"/></a>
+	<a href="https://github.com/HiroshiFK/portfolio/tree/main/Python%20e%20Data%20Science/" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/179220333-690550bf-ea2e-4fb0-a4f0-37927ac65ce5.png" alt="data science projects" width="100" height="100"/></a>
 </p>
 
 <h5 align="left">Back-end:</h5>
