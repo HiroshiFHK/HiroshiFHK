@@ -24,8 +24,6 @@
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 	<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 	<a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-	<a href="https://mongoosejs.com/" target="_blank"> <img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="mongoose" width="40" height="40"/> </a>
-	<a href="https://jwt.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jwtio-json-web-token.svg" alt="json web token" width="50" height="40"/> </a>
 </p>
 <h3 align="left">Other Languages and Tools:</h3>
 <p align="left">
