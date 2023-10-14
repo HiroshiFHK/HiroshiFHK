@@ -48,7 +48,7 @@
 </p>
 <h5 align="left">Data Science projects:</h5>
 <p>
-	<a href="https://github.com/HiroshiFHK/Customer-Support-Tickets-Analysys" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/179222533-4822ea5e-ac9c-4cd1-900f-5599654c8c16.jpg" alt="data science projects" width="100" height="100"/> </a>
+	<a href="https://github.com/HiroshiFHK/Customer-Support-Tickets-Analysys" target="_blank"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75752123/275237070-71baf85e-20ca-4c1f-842b-8112499de040.jpg" alt="data science projects" width="100" height="100"/> </a>
 	<a href="https://github.com/HiroshiFK/portfolio/tree/main/Python%20e%20Data%20Science/Desafios%20Digital%20Innovation%20One" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/179222533-4822ea5e-ac9c-4cd1-900f-5599654c8c16.jpg" alt="data science projects" width="100" height="100"/> </a>
 </p>
 <h5 align="left">Back-end:</h5>
