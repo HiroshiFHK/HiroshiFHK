@@ -69,6 +69,3 @@ width="160" height="80"/></a>
 	<a href="https://github.com/HiroshiFK/portifolio/tree/main/HTML%20CSS%20e%20JS/Desafios%20Digital%20innovation%20One/Jogo%20da%20velha" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/117442934-c9cca600-af0d-11eb-8c7e-614def58b047.jpg" alt="Jogo da velha" width="70" height"70"/></a>
 	<a href="https://github.com/HiroshiFK/portfolio/tree/main/HTML%20e%20CSS/Responsive%20Web%20Design%20Certification" target="_blank"> <img src="https://user-images.githubusercontent.com/75752123/117860830-1fcf7f80-b267-11eb-82f4-89bdd5522678.jpg" alt="responsive design certification" width="110" height="110"/> </a>
 </p>
-
-
-![179222533-4822ea5e-ac9c-4cd1-900f-5599654c8c16](https://github.com/HiroshiFHK/HiroshiFK/assets/75752123/2384a1bb-ef7e-43dc-9421-8ec6944d9c04)
