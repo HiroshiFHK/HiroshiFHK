@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiroshi</h1>
-<h2 align="center">A passionate Cyber Security Enthusiast 💻, Data Scientist 📊, Fighter 👊, Gamer 🎮 and a nice guy :bowtie: (i think) :heart:.</h3>
+<h2 align="center">A passionate Cyber Security Enthusiast 💻, Data Scientist 📊, Fighter 👊, Gamer 🎮.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
