@@ -38,14 +38,6 @@
 </p>
 
 <h3 align="left">See my work here:</h3>
-<h4 align="left">Full Projects:</h4>
-<p>
-	<a href="https://github.com/HiroshiFK/projects" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height"30"/></a>
-</p>
-<h4 align="left">Full Portifolio:</h4>
-<p>
-	<a href="https://github.com/HiroshiFK/portifolio" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="40" height"30"/></a>
-</p>
 <h5 align="left">Data Science projects:</h5>
 <p>
 	<a href="https://github.com/HiroshiFHK/Customer-Support-Tickets-Analysys" target="_blank"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75752123/275237070-71baf85e-20ca-4c1f-842b-8112499de040.jpg" alt="data science projects" width="100" height="100"/> </a>
