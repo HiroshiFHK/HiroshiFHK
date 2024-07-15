@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/HiroshiFHK/data_science/issues)
 
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75752123/348831887-788309b0-fd03-40a1-8544-cd4d576a9fa3.jpg">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75752123/348831887-788309b0-fd03-40a1-8544-cd4d576a9fa3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240715%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240715T193316Z&X-Amz-Expires=300&X-Amz-Signature=3ff5b07602a2b71f469d482f3ef617031e4cf781aa1bfbdc79f2c74273b630a2&X-Amz-SignedHeaders=host&actor_id=75752123&key_id=0&repo_id=358680622" width="1000" height="243">
 </p>
 
 # Felipe Hiroshi Katsuno
