@@ -20,7 +20,7 @@ My credentials include a Business Management degree from the College of Technolo
 
 ## Projects:
 
-* **[Customer Support Tickets Analysys](https://github.com/HiroshiFHK/Customer-Support-Tickets-Analysys)**
+* **[AirBnb Data Analysis](https://github.com/HiroshiFHK/airbnb_analysys)**
 * **[Basic Data Analysis](https://github.com/HiroshiFK/portfolio/tree/main/Python%20e%20Data%20Science/Desafios%20Digital%20Innovation%20One)**
 
 
